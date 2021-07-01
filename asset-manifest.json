@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-hero/static/css/main.f95d929e.chunk.css",
-    "main.js": "/react-hero/static/js/main.0664ca82.chunk.js",
-    "main.js.map": "/react-hero/static/js/main.0664ca82.chunk.js.map",
+    "main.css": "/react-hero/static/css/main.798d8105.chunk.css",
+    "main.js": "/react-hero/static/js/main.35de37df.chunk.js",
+    "main.js.map": "/react-hero/static/js/main.35de37df.chunk.js.map",
     "runtime-main.js": "/react-hero/static/js/runtime-main.12479f7c.js",
     "runtime-main.js.map": "/react-hero/static/js/runtime-main.12479f7c.js.map",
     "static/css/2.7b1c032f.chunk.css": "/react-hero/static/css/2.7b1c032f.chunk.css",
-    "static/js/2.0d0ecc66.chunk.js": "/react-hero/static/js/2.0d0ecc66.chunk.js",
-    "static/js/2.0d0ecc66.chunk.js.map": "/react-hero/static/js/2.0d0ecc66.chunk.js.map",
+    "static/js/2.6f83bc2f.chunk.js": "/react-hero/static/js/2.6f83bc2f.chunk.js",
+    "static/js/2.6f83bc2f.chunk.js.map": "/react-hero/static/js/2.6f83bc2f.chunk.js.map",
     "index.html": "/react-hero/index.html",
     "static/css/2.7b1c032f.chunk.css.map": "/react-hero/static/css/2.7b1c032f.chunk.css.map",
-    "static/css/main.f95d929e.chunk.css.map": "/react-hero/static/css/main.f95d929e.chunk.css.map",
-    "static/js/2.0d0ecc66.chunk.js.LICENSE.txt": "/react-hero/static/js/2.0d0ecc66.chunk.js.LICENSE.txt",
+    "static/css/main.798d8105.chunk.css.map": "/react-hero/static/css/main.798d8105.chunk.css.map",
+    "static/js/2.6f83bc2f.chunk.js.LICENSE.txt": "/react-hero/static/js/2.6f83bc2f.chunk.js.LICENSE.txt",
     "static/media/sound.9ae252e3.mp3": "/react-hero/static/media/sound.9ae252e3.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.12479f7c.js",
     "static/css/2.7b1c032f.chunk.css",
-    "static/js/2.0d0ecc66.chunk.js",
-    "static/css/main.f95d929e.chunk.css",
-    "static/js/main.0664ca82.chunk.js"
+    "static/js/2.6f83bc2f.chunk.js",
+    "static/css/main.798d8105.chunk.css",
+    "static/js/main.35de37df.chunk.js"
   ]
 }
