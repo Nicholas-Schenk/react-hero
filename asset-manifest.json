@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-hero/static/css/main.b67bbd2a.chunk.css",
-    "main.js": "/react-hero/static/js/main.600f408a.chunk.js",
-    "main.js.map": "/react-hero/static/js/main.600f408a.chunk.js.map",
+    "main.js": "/react-hero/static/js/main.c32722ac.chunk.js",
+    "main.js.map": "/react-hero/static/js/main.c32722ac.chunk.js.map",
     "runtime-main.js": "/react-hero/static/js/runtime-main.c4a9b466.js",
     "runtime-main.js.map": "/react-hero/static/js/runtime-main.c4a9b466.js.map",
     "static/css/2.818011ed.chunk.css": "/react-hero/static/css/2.818011ed.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.77cd5498.chunk.js",
     "static/css/main.b67bbd2a.chunk.css",
-    "static/js/main.600f408a.chunk.js"
+    "static/js/main.c32722ac.chunk.js"
   ]
 }
