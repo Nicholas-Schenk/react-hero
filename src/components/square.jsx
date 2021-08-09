@@ -22,9 +22,9 @@ class Square extends Component{
         var size_xsm = 'calc(10px + '+width/2+'px + ' +width/10+ 'vw)';*/
         var size = this.props.row*2.5*4 + 35 + 'px';
         var size_color= this.props.row*1.5*4 + 10 + 'px';
-        var size_sm = this.props.row*1.5*4 +15+ 'px';
+        var size_sm = this.props.row*1.5*4 +12.5+ 'px';
         var size_xsm = this.props.row*0.75*4+ 7.5+ 'px';
-        if(window.matchMedia('(max-width: 1200px)').matches){
+        if(window.matchMedia('(max-width: 1145px)').matches){
             //console.log("HELLO??");
             size = this.props.row*3.5*2/15 + 5 + 'vw';
             size_color= this.props.row*2*2/15+ 2 + 'vw';

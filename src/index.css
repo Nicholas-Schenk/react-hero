@@ -20,9 +20,9 @@
   /*width: calc(252px + 15vw);
   */
   width: 44vw;
-  height: 47.5vw;
-  max-height: 480px;
-  max-width: 550px;
+  height: calc(150px + 28vw);
+  max-height: 450px;
+  max-width: 520px;
   /*height: calc(252px + 11vw);*/
   transform: perspective(8em) rotateX(12.5deg);
   z-index: -1;
@@ -441,7 +441,7 @@ audio{
   transform: perspective(8em) rotateY(5deg);
 }
 
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 840px){
   .score-counter{
     position:absolute;
     top:auto !important;
@@ -478,9 +478,9 @@ audio{
 .mrow{
   height: fit-content !important;
 }
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 1182px){
   .path{
-    left: calc(50vw - 275px);
+    left: calc(50vw - 260px);
   }
   .mrow{
     height: fit-content !important;

@@ -794,8 +794,8 @@ class Board extends Component{
                 </div>
                 </div>
 
-                <div className="path"></div>
-                <div className="container" style={{position:'absolute', top:'calc(87.5vh)',marginBottom:0,}}>
+                <span className="path"></span>
+                <div className="container-fluid" style={{position:'absolute', top:'calc(90vh)',marginBottom:0,}}>
                     <div className="row">
                         <div className="col-12" style={{alignItems:'center',marginBottom:0}}>
                             <button className="mx-auto" onClick={this.startGame.bind(this)} style={{marginBottom:0, fontSize: 2+'vw', padding: '0.25em 0.5em',display:'block'}}>Start Game</button>
