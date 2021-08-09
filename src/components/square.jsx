@@ -6,6 +6,7 @@ class Square extends Component{
         super(props);
     }
     //helps us be more efficient! we only rerender when stuff actually changes now! :)
+        // decided to remove this for now. now that the screen width matters for the sizing of stuff its important to always update stuff
     /*shouldComponentUpdate(nextProps, nextState){
         if(nextProps.active === this.props.active && !nextProps.active && this.props.row !== 10){
             return false;
@@ -22,7 +23,7 @@ class Square extends Component{
         var size_xsm = 'calc(10px + '+width/2+'px + ' +width/10+ 'vw)';*/
         var size = this.props.row*2.5*4 + 35 + 'px';
         var size_color= this.props.row*1.5*4 + 10 + 'px';
-        var size_sm = this.props.row*1.5*4 +12.5+ 'px';
+        var size_sm = this.props.row*1.5*4 +11+ 'px';
         var size_xsm = this.props.row*0.75*4+ 7.5+ 'px';
         if(window.matchMedia('(max-width: 1145px)').matches){
             //console.log("HELLO??");

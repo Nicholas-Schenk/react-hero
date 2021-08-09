@@ -144,7 +144,7 @@ class Board extends Component{
             yactive: [false, false,false, false,false, false,false, false,false, false,false, false],
             bactive: [false, false,false, false,false, false,false, false,false, false,false, false],
             oactive: [false, false,false, false,false, false,false, false,false, false,false, false],
-             's': false, 'd': false, 'f': false, 'g': false, 'Space': false, start:false, delay:141, gameState: 'home', 
+             's': false, 'd': false, 'f': false, 'g': false, 'Space': false, start:false, delay:146.9, gameState: 'home', 
             listening: false,
             listeningFor: '',
             green: 'a', 
@@ -447,7 +447,7 @@ class Board extends Component{
         notes_hit = 0;
         rotated = 0;
         play_sound.load();
-        this.setState({gameState:'start'});
+        this.setState({gameState:'start', score: 0, streak: 0, multiplier: 1});
     }
     async changeStart(){
             play_sound = new Audio();
@@ -647,13 +647,8 @@ class Board extends Component{
                 <h1 style={{marginTop: '100px'}}>GAME OVER</h1>
                 <br></br>
                 <h3>YOU HIT {(notes_hit/201.0*100).toFixed(2)}%</h3>
+                <br/>
                 <h3>YOU SCORED {this.state.score} POINTS</h3>
-                <p>Submit your score to leaderboard!</p>
-                <form>
-                    <label for="fname">Name: </label><br/>
-                    <input type="text" id="fname" name="fname"/><br/>
-                    <button>Submit</button>   
-                </form>
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-12" style={{textAlign:'center'}}>
