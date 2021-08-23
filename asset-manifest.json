@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-hero/static/css/main.b67bbd2a.chunk.css",
-    "main.js": "/react-hero/static/js/main.46718485.chunk.js",
-    "main.js.map": "/react-hero/static/js/main.46718485.chunk.js.map",
-    "runtime-main.js": "/react-hero/static/js/runtime-main.1d6be585.js",
-    "runtime-main.js.map": "/react-hero/static/js/runtime-main.1d6be585.js.map",
+    "main.css": "/react-hero/static/css/main.3dd588d9.chunk.css",
+    "main.js": "/react-hero/static/js/main.d8e47ac6.chunk.js",
+    "main.js.map": "/react-hero/static/js/main.d8e47ac6.chunk.js.map",
+    "runtime-main.js": "/react-hero/static/js/runtime-main.71e5b3b4.js",
+    "runtime-main.js.map": "/react-hero/static/js/runtime-main.71e5b3b4.js.map",
     "static/css/2.818011ed.chunk.css": "/react-hero/static/css/2.818011ed.chunk.css",
-    "static/js/2.2e7ce0f2.chunk.js": "/react-hero/static/js/2.2e7ce0f2.chunk.js",
-    "static/js/2.2e7ce0f2.chunk.js.map": "/react-hero/static/js/2.2e7ce0f2.chunk.js.map",
-    "static/js/3.59621546.chunk.js": "/react-hero/static/js/3.59621546.chunk.js",
-    "static/js/3.59621546.chunk.js.map": "/react-hero/static/js/3.59621546.chunk.js.map",
+    "static/js/2.9d476884.chunk.js": "/react-hero/static/js/2.9d476884.chunk.js",
+    "static/js/2.9d476884.chunk.js.map": "/react-hero/static/js/2.9d476884.chunk.js.map",
+    "static/js/3.e621952a.chunk.js": "/react-hero/static/js/3.e621952a.chunk.js",
+    "static/js/3.e621952a.chunk.js.map": "/react-hero/static/js/3.e621952a.chunk.js.map",
     "index.html": "/react-hero/index.html",
     "static/css/2.818011ed.chunk.css.map": "/react-hero/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.b67bbd2a.chunk.css.map": "/react-hero/static/css/main.b67bbd2a.chunk.css.map",
-    "static/js/2.2e7ce0f2.chunk.js.LICENSE.txt": "/react-hero/static/js/2.2e7ce0f2.chunk.js.LICENSE.txt",
+    "static/css/main.3dd588d9.chunk.css.map": "/react-hero/static/css/main.3dd588d9.chunk.css.map",
+    "static/js/2.9d476884.chunk.js.LICENSE.txt": "/react-hero/static/js/2.9d476884.chunk.js.LICENSE.txt",
     "static/media/sound.9ae252e3.mp3": "/react-hero/static/media/sound.9ae252e3.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d6be585.js",
+    "static/js/runtime-main.71e5b3b4.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.2e7ce0f2.chunk.js",
-    "static/css/main.b67bbd2a.chunk.css",
-    "static/js/main.46718485.chunk.js"
+    "static/js/2.9d476884.chunk.js",
+    "static/css/main.3dd588d9.chunk.css",
+    "static/js/main.d8e47ac6.chunk.js"
   ]
 }
